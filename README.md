@@ -10,7 +10,6 @@ Welcome to my C and C++ programs repository! 🎉 This repository is a collectio
 - [Content Overview](#content-overview)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
-- [License](#license)
 - [Stay Tuned](#stay-tuned)
 
 ## Introduction  🖥️, 📘, 🔧
@@ -57,8 +56,7 @@ I welcome contributions to this repository! If you have any suggestions, improve
 5. **Push to the branch** (`git push origin feature/your-feature-name`)
 6. **Open a pull request**
 
-## License 📜, 🔗
-This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
 
 ## Stay Tuned  ⭐️, 🔔, 🆕
 Stay tuned for more updates as I continue to add more C and C++ programs to this repository! ⭐️
